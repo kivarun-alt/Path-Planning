@@ -12,5 +12,7 @@ through the new node. If so, it rewires the tree to improve the path quality. RR
 cost-to-come for each node in the tree by considering the cost of reaching that node from the root of the
 tree.
 
+
+
 ***NOTE*** This is a part of the final evaluation of Autonomous Vehicles course for Masters programme in Mechanical Engineering
 at Politecnico di Milano. Use it as a reference for your projects but do not plagiarise.
